@@ -1,11 +1,2 @@
-{
-  "open-sales": [
-    {
-      "amount": 10000,
-      "pos-reference": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{"open-sales":[{"amount":"4595","pos-reference":"abc123"}]}
+
