@@ -1,2 +1,3 @@
-{"open-sales":[{"amount":"4595","pos-reference":"abc123"}]}
+{"open-sales":[{"amount":"5000","pos-reference":"abc123","display-text":"group1"},{"amount":"2000","pos-reference":"abc124","display-text":"group2},{"amount":"2000","pos-reference":"abc125","display-text":"group3},{"amount":"10000","pos-reference":"abc126,"display-text":"group4"}]}
+
 
