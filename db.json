@@ -2,7 +2,7 @@
   "open-sales": [
     {
       "amount": 10000,
-      "title": "hello"
+      "pos-reference": "hello"
     }
   ],
   "profile": {
