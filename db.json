@@ -1,8 +1,8 @@
 {
   "open-sales": [
     {
-      "id": 1,
-      "title": "hello"
+      "amount": 10000,
+      "pos-reference": "abc123"
     }
   ],
   "profile": {
